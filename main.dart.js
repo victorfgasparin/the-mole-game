@@ -85534,12 +85534,15 @@ A.vQ.prototype={
 kq(a,b){return this.al0(a,b)},
 al0(a,b){var s=0,r=A.L(t.H),q,p=this,o,n
 var $async$kq=A.M(function(c,d){if(c===1)return A.I(d,r)
-while(true)switch(s){case 0:s=3
+while(true)switch(s){case 0:n=a.b
+n===$&&A.b()
+n.n(0,"Content-Type","application/json")
+a.b.n(0,"Accept","application/json")
+s=3
 return A.Q(p.b.uL(),$async$kq)
-case 3:n=d
-if(n!=null){o=a.b
-o===$&&A.b()
-o.n(0,"Authorization","Bearer "+n)}q=b.jw(a)
+case 3:o=d
+if(o!=null)a.b.n(0,"Authorization","Bearer "+o)
+q=b.jw(a)
 s=1
 break
 case 1:return A.J(q,r)}})
