@@ -85810,7 +85810,7 @@ A.aoz.prototype={
 $2(a,b){var s,r=null,q=t.gC,p=b.a
 if(B.b.p(A.a([B.fe,B.dd],q),p)){s=p===B.fe?new A.aoo(this.a,a):r
 if(p===B.dd)s=new A.aop(this.a,a)}else s=r
-return A.aA2(A.fY(B.b.p(A.a([B.ff,B.dd,B.l3,B.iw],q),p)?"Confirmar SMS":"Entrar no jogo",r,r,r,r,r,r),s)},
+return A.aA2(A.fY(B.b.p(A.a([B.ff,B.dd,B.l3,B.iw],q),p)?"Confirmar SMS":"Entrar",r,r,r,r,r,r),s)},
 $S:543}
 A.aoo.prototype={
 $0(){A.ku(this.b,!1,t.U0).vc()
