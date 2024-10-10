@@ -3,12 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "fcfd986eaca21f837b477eb55bdc714e",
-"assets/AssetManifest.bin.json": "d1ca7254a086b191841c231e772d8084",
-"assets/AssetManifest.json": "c97836bed41e6ab6952e115389223f82",
+const RESOURCES = {"assets/AssetManifest.bin": "006bcd28a72957bd091220b999541c01",
+"assets/AssetManifest.bin.json": "8ea6b0cf3a9dc1ac0350678cb497b672",
+"assets/AssetManifest.json": "0485694d53fd347704b1b93f0090cc16",
 "assets/assets/images/2.0x/flutter_logo.png": "4efb9624185aff46ca4bf5ab96496736",
+"assets/assets/images/2.0x/the-mole-icon-app.png": "fb40e54314dcf82537e0094a3956b663",
 "assets/assets/images/3.0x/flutter_logo.png": "b8ead818b15b6518ac627b53376b42f2",
+"assets/assets/images/3.0x/the-mole-icon-app.png": "fb40e54314dcf82537e0094a3956b663",
 "assets/assets/images/flutter_logo.png": "478970b138ad955405d4efda115125bf",
+"assets/assets/images/the-mole-icon-app.png": "fb40e54314dcf82537e0094a3956b663",
+"assets/assets/images/the-mole-icon.png": "cfba44003d599767cf9fbbe6599156a1",
 "assets/assets/images/the-mole-logo.png": "5bd68079b8feb2e2e902efff385c19d7",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "2db2cbeeed92d525d1bfad5feec6a8f9",
@@ -282,15 +286,17 @@ const RESOURCES = {"assets/AssetManifest.bin": "fcfd986eaca21f837b477eb55bdc714e
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "80a4f6a8ece7187c32d81740930a4b76",
+"flutter_bootstrap.js": "a0ef7234981770a848f01edcf3afb35b",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e580290009959c43ad8c73dc9e5a39e5",
-"/": "e580290009959c43ad8c73dc9e5a39e5",
-"main.dart.js": "01e126046ef0cad46d07db775325c5d4",
+"icons/the-mole-icon-app-lg.png": "cfba44003d599767cf9fbbe6599156a1",
+"index.html": "3dc148dd225d301d55fd3157c489e47f",
+"/": "3dc148dd225d301d55fd3157c489e47f",
+"main.dart.js": "5e7f3963b60f9b7eac5985eedad5e793",
 "manifest.json": "786044039a5bcb1308258e88574d2115",
+"the-mole-icon-app.png": "fb40e54314dcf82537e0094a3956b663",
 "version.json": "70c75f0871c00f25a7f85ae889c60c32"};
 // The application shell files that are downloaded before a service worker can
 // start.
