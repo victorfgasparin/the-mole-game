@@ -293,7 +293,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "977668a86c14773c8ba990802951a3b7
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "cd73ae1b23453bfd7eae0140b5204a8c",
+"flutter_bootstrap.js": "3115a79507b8d4877f1350c8ff1d2492",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -301,7 +301,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "977668a86c14773c8ba990802951a3b7
 "icons/the-mole-icon-app-lg.png": "cfba44003d599767cf9fbbe6599156a1",
 "index.html": "3dc148dd225d301d55fd3157c489e47f",
 "/": "3dc148dd225d301d55fd3157c489e47f",
-"main.dart.js": "02787a6e814c5d71843f89535052db59",
+"main.dart.js": "48149e51a7071e735397a22b0e4a2757",
 "manifest.json": "1b81cfbfee0cbc3f6352dfc998ff4381",
 "the-mole-icon-app.png": "fb40e54314dcf82537e0094a3956b663",
 "version.json": "70c75f0871c00f25a7f85ae889c60c32"};
