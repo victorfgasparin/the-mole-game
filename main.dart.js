@@ -91236,15 +91236,15 @@ s=1
 break
 case 1:return A.L(q,r)}})
 return A.M($async$vO,r)},
-vZ(a,b,c){return this.YJ(a,b,c)},
-YJ(a,b,c){var s=0,r=A.N(t.au),q,p=this,o,n,m
-var $async$vZ=A.O(function(d,e){if(d===1)return A.K(e,r)
+vZ(a,b,c,d){return this.YJ(a,b,c,d)},
+YJ(a,b,c,d){var s=0,r=A.N(t.au),q,p=this,o,n,m
+var $async$vZ=A.O(function(e,f){if(e===1)return A.K(f,r)
 while(true)switch(s){case 0:o=t.N
 n=A
 m=J
 s=3
-return A.Q(p.a.vi("/games/"+a+"/"+c,A.aG([b,c],o,o),t.z),$async$vZ)
-case 3:q=n.aEk(m.bb(e.a,"data"))
+return A.Q(p.a.vi("/games/"+c+"/"+b,A.aG([a,d],o,o),t.z),$async$vZ)
+case 3:q=n.aEk(m.bb(f.a,"data"))
 s=1
 break
 case 1:return A.L(q,r)}})
@@ -91289,16 +91289,17 @@ r=r.Y5()
 q=p.e===B.dV&&p.r.length!==0?B.hm:B.o
 return new A.bh(B.bt,A.aKn(o,!1,o,n,o,o,o,2,A.aDj(o,new A.ih(4,A.rV(16),B.k7),o,o,o,o,o,o,!0,o,o,o,o,o,o,q,!0,B.Qi,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.acZ,"Preencha um valor".toUpperCase(),o,o,o,o,o,o,o,o,o,o,o,o,o),s!==B.eU,o,o,r,o,B.GM,o,!1,new A.aqq(p),o,o,o,!1,o,B.ad_,B.bz,o,o,o),o)},
 vY(a){return this.YK(a)},
-YK(a){var s=0,r=A.N(t.H),q=1,p,o=this,n,m,l,k,j,i
+YK(a){var s=0,r=A.N(t.H),q=1,p,o=this,n,m,l,k,j,i,h
 var $async$vY=A.O(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:o.a9(new A.aqr(o))
 q=3
 l=o.d
 l===$&&A.b()
-k=o.f
-k===$&&A.b()
+k=o.a.c
+j=o.f
+j===$&&A.b()
 s=6
-return A.Q(l.vZ(k.c,k.d,o.r),$async$vY)
+return A.Q(l.vZ(j.d,k.a,j.c,o.r),$async$vY)
 case 6:n=c
 if(o.c!=null){o.a9(new A.aqs(o,n))
 if(o.e===B.dV){o.r=""
@@ -91310,8 +91311,8 @@ l.eH(l.c.TU("Resposta enviada com sucesso!",B.l1,!0))}if(o.e===B.k6)A.f9(a,!1,t.
 s=5
 break
 case 3:q=2
-i=p
-m=A.ao(i)
+h=p
+m=A.ao(h)
 A.aaZ(o,a,m,null)
 if(o.c!=null)o.a9(new A.aqt(o))
 s=5
@@ -91509,7 +91510,7 @@ $0(){this.a.d=this.b},
 $S:0}
 A.atN.prototype={
 $1(a){var s=null,r=t.p
-return A.qz(!0,A.cx(s,A.dH(A.a([B.a8o,new A.bh(B.ai,A.ci("v1.0.5",s,s,s,B.aeO,s,s),s),B.aby,A.h8(A.a([A.iT(new A.bh(B.d7,A.aJc(!1,B.agW,s,s,B.hU,s,s,s,s,new A.atL(a),s,A.aCX(s,s,s,B.jA,B.jA,s)),s),1),A.iT(new A.bh(B.d7,A.aba(B.agP,new A.atM(this.a),A.aCX(s,s,s,B.jA,B.jA,s)),s),1)],r),B.H,B.cJ,B.Y)],r),B.H,B.B5,B.Y),B.q,B.I,s,s,s,s,s,s),B.ai,!0)},
+return A.qz(!0,A.cx(s,A.dH(A.a([B.a8o,new A.bh(B.ai,A.ci("v1.1.0",s,s,s,B.aeO,s,s),s),B.aby,A.h8(A.a([A.iT(new A.bh(B.d7,A.aJc(!1,B.agW,s,s,B.hU,s,s,s,s,new A.atL(a),s,A.aCX(s,s,s,B.jA,B.jA,s)),s),1),A.iT(new A.bh(B.d7,A.aba(B.agP,new A.atM(this.a),A.aCX(s,s,s,B.jA,B.jA,s)),s),1)],r),B.H,B.cJ,B.Y)],r),B.H,B.B5,B.Y),B.q,B.I,s,s,s,s,s,s),B.ai,!0)},
 $S:570}
 A.atL.prototype={
 $0(){A.f7(this.a,!1).lB(null)},
